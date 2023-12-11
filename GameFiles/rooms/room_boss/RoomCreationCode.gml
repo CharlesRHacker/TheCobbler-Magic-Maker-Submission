@@ -1,0 +1,3 @@
+with(all){
+	visible = true	
+}

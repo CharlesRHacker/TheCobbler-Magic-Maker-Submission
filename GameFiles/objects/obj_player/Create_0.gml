@@ -1,0 +1,14 @@
+grv = .45; //gravity
+hsp = 0; //current horizontal speed
+vsp = 0; //current vertical speed
+hsp_walk = 3; //walk speed
+vsp_jump = -8; //jump speed
+hearts = 3
+lanterns = 0
+madeit = 0
+shootstrength = 0
+shootdrawdex = -1
+global.curcolor = 0
+global.moved = false
+global.tutorial = 1
+global.done = false
